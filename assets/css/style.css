@@ -86,6 +86,10 @@ li a.active, li a:hover{
     padding: 0 10px;
 }
 
+.resaltado{
+    color: greenyellow;
+}
+
 footer{
     grid-area: footer;
     height: 30px;
